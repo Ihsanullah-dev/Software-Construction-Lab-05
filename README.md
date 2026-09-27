@@ -3,10 +3,15 @@
 ## Designing Specifications: Preconditions and Postconditions
 
 **University:** University of Engineering and Technology, Abbottabad Campus
+
 **Department:** Software Engineering
+
 **Semester:** 5th Semester
+
 **Subject:** Software Construction
+
 **Instructor:** Engr. Rizwan Shah
+
 **Date:** 15 September 2026
 
 ## Objective
